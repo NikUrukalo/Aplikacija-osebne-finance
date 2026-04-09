@@ -3,4 +3,4 @@
 Projektna naloga pri predmetu Osnove podatkovnih baz.
 
 ## ER diagram aplikacije:
-<img width="976" height="547" alt="Screenshot 2026-04-08 223909" src="https://github.com/user-attachments/assets/8577aa2e-0c3c-4b31-994a-ed5243db3280" />
+<img width="997" height="546" alt="Screenshot 2026-04-08 224200" src="https://github.com/user-attachments/assets/189d4fc0-86c3-4c3b-9d69-d4a16b2fdbb9" />
